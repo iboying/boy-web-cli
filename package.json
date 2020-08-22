@@ -1,6 +1,6 @@
 {
   "name": "@iboying/boy-web-cli",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A front-end scaffold tool for restful resources.",
   "main": "lib/service.js",
   "license": "MIT",
